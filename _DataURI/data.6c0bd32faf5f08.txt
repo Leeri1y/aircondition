@@ -1,0 +1,1 @@
+chrome-extension://dbjibobgilijgolhjdcbdebjhejelffo/configs/content_css_list.json
