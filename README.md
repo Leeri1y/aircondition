@@ -1,4 +1,4 @@
-根据对 Leeri1y/aircondition 仓库的整体内容分析，现为你整理一份适用于整个仓库的 README 示例：
+
 
 ---
 
